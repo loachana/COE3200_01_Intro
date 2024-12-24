@@ -20,4 +20,4 @@ All the suggestions are welcome!
 
 ![7](Push_fetch.png)
 
---Copyright by Lochana--" 
+<p align="center">--Copyright by Lochana--" </p>
