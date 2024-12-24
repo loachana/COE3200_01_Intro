@@ -1,6 +1,6 @@
-"# COE3200_01_Intro
+<strong># COE3200_01_Intro</strong>
 
-This repo was created solely for the first experience with GitHub.
+<i>This repo was created solely for the first experience with GitHub.</i>
 
 This is the first assignment in the series.
 
