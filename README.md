@@ -8,4 +8,4 @@ All the suggestions are welcome!
 
 --Copyright by Lochana--" 
 
-!(README.md_was_created.png)
+![1](README.md_was_created.png)
