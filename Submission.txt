@@ -1,0 +1,22 @@
+#Name : G S A M E W L B Egodawele
+#Reg No: s24013092
+#E-mail: s24013092@ousl.lk
+#Date: 24/12/2024
+
+1. The link to the created repository in Part 1, problem 01:
+
+	--> https://github.com/loachana/COE3200_01_Intro
+
+
+2. The python code (hello.py) output in Part 1, Problem 02: 
+
+	--> YAY!! I wan born!
+
+
+3. The python code which fetches the uploaded script in Part 2, Problem 03:
+
+	--> #This is the first simple program created for the COE3200 course @ ousl
+	    #Date: 22/12/2024
+            #All rights reserved
+
+	    print("YAY!! I was born!")
