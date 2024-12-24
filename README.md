@@ -9,3 +9,15 @@ All the suggestions are welcome!
 --Copyright by Lochana--" 
 
 ![1](README.md_was_created.png)
+
+![2](Repo_dir.png)
+
+![3](Py_print.png)
+
+![4](Push_hello.png)
+
+![5](Req_install.png)
+
+![6](Fetch_code.png)
+
+![7](Push_fetch.png)
