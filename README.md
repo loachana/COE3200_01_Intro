@@ -7,3 +7,5 @@ This is the first assignment in the series.
 All the suggestions are welcome! 
 
 --Copyright by Lochana--" 
+
+![1](README.md_was_created.png)
