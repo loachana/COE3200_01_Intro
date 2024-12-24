@@ -6,7 +6,7 @@ This is the first assignment in the series.
 
 All the suggestions are welcome! 
 
-<p align="center"><strong>Some snippets during the process</strong></p>
+<h2 align="center"><strong>Some snippets during the process</strong></h2>
 
 ![1](README.md_was_created.png)
 
