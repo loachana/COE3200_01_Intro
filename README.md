@@ -18,6 +18,6 @@ All the suggestions are welcome!
 
 ![5](Req_install.png)
 
-![6](Fetch_code.png)
+![6](Fetch_code_result.png)
 
 ![7](Push_fetch.png)
