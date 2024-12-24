@@ -6,8 +6,6 @@ This is the first assignment in the series.
 
 All the suggestions are welcome! 
 
---Copyright by Lochana--" 
-
 ![1](README.md_was_created.png)
 
 ![2](Repo_dir.png)
@@ -21,3 +19,5 @@ All the suggestions are welcome!
 ![6](Fetch_code_result.png)
 
 ![7](Push_fetch.png)
+
+--Copyright by Lochana--" 
