@@ -2,9 +2,9 @@
 
 <i>This repo was created solely for the first experience with GitHub.</i>
 
-This is the first assignment in the series.
+<i>This is the first assignment in the series.</i>
 
-All the suggestions are welcome! 
+<i>All the suggestions are welcome!</i> 
 
 <h2 align="center"><strong>Some snippets during the process</strong></h2>
 
